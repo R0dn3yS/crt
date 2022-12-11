@@ -21,7 +21,7 @@ impl Display {
       height,
       fps,
       scanline_h: 0,
-      scanline_v: 718,
+      scanline_v: 0,
     }
   }
 
